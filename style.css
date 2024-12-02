@@ -41,14 +41,6 @@ main {
     padding: 20px;
 }
 
-.profile-photo {
-    display: block;
-    margin: 20px auto;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
 
 button {
     background-color: #ffc0cb;
